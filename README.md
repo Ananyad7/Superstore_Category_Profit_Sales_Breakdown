@@ -1,8 +1,8 @@
 # Superstore_Category_Profit_Sales_Breakdown
 
-Link: https://public.tableau.com/views/Category_wise_breakdown/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+Report link: <a href="https://public.tableau.com/views/Category_wise_breakdown/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">Link</a>
 
-Tool Used: Tableau 
+# Tool Used: Tableau 
 
  # Snapshot
 ![Category_wise_breakdown](https://github.com/Ananyad7/Superstore_Category_Profit_Sales_Breakdown/assets/164981636/c4de3e4d-70bc-41af-8e66-4c45452d487a)
@@ -29,4 +29,6 @@ Based on the performance breakdown provided in your dashboard description, here 
 3) Gather feedback from customers in regions with varying sales and profit performance. Use customer insights to tailor products or services to local preferences or needs.
 4) Streamline operations in regions with negative profit margins despite decent sales (e.g., Philippines, Pakistan). Look for opportunities to reduce costs or improve efficiency in supply chain or distribution channels.
    
-Linkedin link: https://www.linkedin.com/posts/7ananyadas_tableau-datavisualization-viz-activity-7163839433794830339-6rdo?utm_source=share&utm_medium=member_desktop
+Linkedin link:<a href="https://www.linkedin.com/posts/7ananyadas_tableau-datavisualization-viz-activity-7163839433794830339-6rdo?utm_source=share&utm_medium=member_desktop" target="_blank">Link</a>
+
+
